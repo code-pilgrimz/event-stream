@@ -1,1 +1,2 @@
 - left a note for myself
+- tidy up
