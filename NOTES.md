@@ -1,3 +1,4 @@
 - left a note for myself
 - tidy up
 - revisit later
+- off-by-one, fixed
