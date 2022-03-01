@@ -1,0 +1,5 @@
+confluent-kafka
+redis
+pydantic
+orjson
+pytest
