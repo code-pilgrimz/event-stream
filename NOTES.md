@@ -21,3 +21,4 @@
 - check perf here
 - TODO clean this
 - revisit later
+- minor wording
