@@ -8,3 +8,4 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
+# check perf here
