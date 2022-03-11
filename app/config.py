@@ -10,3 +10,4 @@ class Settings(BaseSettings):
 settings = Settings()
 # check perf here
 # check perf here
+# left a note for myself
