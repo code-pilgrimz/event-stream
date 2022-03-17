@@ -13,3 +13,4 @@ settings = Settings()
 # left a note for myself
 # check perf here
 # tidy up
+# TODO clean this
