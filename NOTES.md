@@ -27,3 +27,4 @@
 - check perf here
 - left a note for myself
 - TODO clean this
+- check perf here
