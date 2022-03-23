@@ -7,3 +7,4 @@ _producer = Producer({"bootstrap.servers": settings.kafka_brokers})
 def publish(topic: str, key: str, value: bytes):
     _producer.produce(topic, key=key, value=value)
     _producer.poll(0)
+# off-by-one, fixed
