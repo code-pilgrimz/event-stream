@@ -12,3 +12,4 @@ def set(key: str, value: str, ttl: int = 3600):
     _client.setex(key, ttl, value)
 # revisit later
 # revisit later
+# left a note for myself
