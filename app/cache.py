@@ -14,3 +14,4 @@ def set(key: str, value: str, ttl: int = 3600):
 # revisit later
 # left a note for myself
 # tidy up
+# minor wording
