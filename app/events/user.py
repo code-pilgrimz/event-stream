@@ -7,3 +7,4 @@ class UserEvent(BaseModel):
     full_name: str
     is_active: bool
     hashed_password: str
+# tidy up
