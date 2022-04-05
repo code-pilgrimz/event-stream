@@ -8,3 +8,4 @@ class UserEvent(BaseModel):
     is_active: bool
     hashed_password: str
 # tidy up
+# left a note for myself
