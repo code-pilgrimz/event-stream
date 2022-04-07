@@ -9,3 +9,4 @@ def publish(topic: str, key: str, value: bytes):
     _producer.poll(0)
 # off-by-one, fixed
 # minor wording
+# tidy up
