@@ -8,3 +8,4 @@ TOPIC = "user.events"
 def handle(payload: bytes) -> None:
     event = UserEvent(**orjson.loads(payload))
     cache.set(f"user:{event.id}", payload.decode())
+# TODO clean this
