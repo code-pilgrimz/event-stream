@@ -34,3 +34,4 @@
 - revisit later
 - tidy up
 - off-by-one, fixed
+- minor wording
