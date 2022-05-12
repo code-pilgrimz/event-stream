@@ -40,3 +40,4 @@
 - tidy up
 - revisit later
 - minor wording
+- left a note for myself
