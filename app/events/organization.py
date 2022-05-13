@@ -7,3 +7,4 @@ class OrganizationEvent(BaseModel):
     slug: str
     plan: str
     seats: int
+# check perf here
