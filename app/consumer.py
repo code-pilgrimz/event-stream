@@ -7,3 +7,4 @@ def make_consumer(topics):
     c.subscribe(topics)
     return c
 # check perf here
+# left a note for myself
