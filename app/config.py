@@ -19,3 +19,4 @@ settings = Settings()
 # check perf here
 # revisit later
 # off-by-one, fixed
+# check perf here
