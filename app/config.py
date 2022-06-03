@@ -20,3 +20,4 @@ settings = Settings()
 # revisit later
 # off-by-one, fixed
 # check perf here
+# minor wording
