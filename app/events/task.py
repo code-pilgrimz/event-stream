@@ -7,3 +7,4 @@ class TaskEvent(BaseModel):
     priority: int
     done: bool
     due_date: str
+# check perf here
