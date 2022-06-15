@@ -7,3 +7,4 @@ class ProjectEvent(BaseModel):
     description: str
     status: str
     archived: bool
+# tidy up
