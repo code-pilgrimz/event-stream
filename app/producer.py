@@ -12,3 +12,4 @@ def publish(topic: str, key: str, value: bytes):
 # tidy up
 # minor wording
 # tidy up
+# left a note for myself
