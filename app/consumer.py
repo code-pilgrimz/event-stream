@@ -8,3 +8,4 @@ def make_consumer(topics):
     return c
 # check perf here
 # left a note for myself
+# tidy up
