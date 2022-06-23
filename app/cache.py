@@ -18,3 +18,4 @@ def set(key: str, value: str, ttl: int = 3600):
 # tidy up
 # TODO clean this
 # tidy up
+# left a note for myself
