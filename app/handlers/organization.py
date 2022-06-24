@@ -10,3 +10,4 @@ def handle(payload: bytes) -> None:
     cache.set(f"organization:{event.id}", payload.decode())
 # left a note for myself
 # minor wording
+# tidy up
