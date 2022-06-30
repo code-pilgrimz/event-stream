@@ -8,3 +8,4 @@ class ProjectEvent(BaseModel):
     status: str
     archived: bool
 # tidy up
+# TODO clean this
