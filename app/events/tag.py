@@ -5,3 +5,4 @@ class TagEvent(BaseModel):
     id: int
     label: str
     color: str
+# tidy up
