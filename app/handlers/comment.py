@@ -9,3 +9,4 @@ def handle(payload: bytes) -> None:
     event = CommentEvent(**orjson.loads(payload))
     cache.set(f"comment:{event.id}", payload.decode())
 # minor wording
+# off-by-one, fixed
