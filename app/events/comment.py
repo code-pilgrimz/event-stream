@@ -6,3 +6,4 @@ class CommentEvent(BaseModel):
     body: str
     author_id: int
     edited: bool
+# check perf here
