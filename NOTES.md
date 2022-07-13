@@ -56,3 +56,4 @@
 - tidy up
 - TODO clean this
 - minor wording
+- left a note for myself
