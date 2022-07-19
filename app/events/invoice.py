@@ -7,3 +7,4 @@ class InvoiceEvent(BaseModel):
     amount: float
     currency: str
     paid: bool
+# minor wording
