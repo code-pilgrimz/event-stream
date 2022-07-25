@@ -8,3 +8,4 @@ class OrganizationEvent(BaseModel):
     plan: str
     seats: int
 # check perf here
+# minor wording
