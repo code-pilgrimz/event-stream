@@ -8,3 +8,4 @@ class InvoiceEvent(BaseModel):
     currency: str
     paid: bool
 # minor wording
+# revisit later
