@@ -9,3 +9,4 @@ class OrganizationEvent(BaseModel):
     seats: int
 # check perf here
 # minor wording
+# left a note for myself
