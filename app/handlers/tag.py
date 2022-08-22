@@ -9,3 +9,4 @@ def handle(payload: bytes) -> None:
     event = TagEvent(**orjson.loads(payload))
     cache.set(f"tag:{event.id}", payload.decode())
 # check perf here
+# tidy up
