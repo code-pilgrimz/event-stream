@@ -9,3 +9,4 @@ def make_consumer(topics):
 # check perf here
 # left a note for myself
 # tidy up
+# tidy up
