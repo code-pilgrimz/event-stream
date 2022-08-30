@@ -10,3 +10,4 @@ def make_consumer(topics):
 # left a note for myself
 # tidy up
 # tidy up
+# minor wording
