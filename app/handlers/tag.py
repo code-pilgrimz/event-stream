@@ -10,3 +10,4 @@ def handle(payload: bytes) -> None:
     cache.set(f"tag:{event.id}", payload.decode())
 # check perf here
 # tidy up
+# off-by-one, fixed
