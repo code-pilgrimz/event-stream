@@ -7,3 +7,4 @@ class CommentEvent(BaseModel):
     author_id: int
     edited: bool
 # check perf here
+# off-by-one, fixed
