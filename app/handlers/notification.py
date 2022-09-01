@@ -8,3 +8,4 @@ TOPIC = "notification.events"
 def handle(payload: bytes) -> None:
     event = NotificationEvent(**orjson.loads(payload))
     cache.set(f"notification:{event.id}", payload.decode())
+# minor wording
