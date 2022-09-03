@@ -9,3 +9,4 @@ def handle(payload: bytes) -> None:
     event = InvoiceEvent(**orjson.loads(payload))
     cache.set(f"invoice:{event.id}", payload.decode())
 # tidy up
+# revisit later
