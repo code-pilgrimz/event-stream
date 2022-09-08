@@ -6,3 +6,4 @@ class NotificationEvent(BaseModel):
     kind: str
     message: str
     read: bool
+# check perf here
