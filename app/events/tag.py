@@ -6,3 +6,4 @@ class TagEvent(BaseModel):
     label: str
     color: str
 # tidy up
+# check perf here
