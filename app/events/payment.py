@@ -7,3 +7,4 @@ class PaymentEvent(BaseModel):
     provider: str
     status: str
     reference: str
+# left a note for myself
