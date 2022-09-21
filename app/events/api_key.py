@@ -6,3 +6,4 @@ class ApiKeyEvent(BaseModel):
     name: str
     prefix: str
     revoked: bool
+# check perf here
