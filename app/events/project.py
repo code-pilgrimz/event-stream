@@ -10,3 +10,4 @@ class ProjectEvent(BaseModel):
 # tidy up
 # TODO clean this
 # check perf here
+# minor wording
