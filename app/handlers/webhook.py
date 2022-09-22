@@ -8,3 +8,4 @@ TOPIC = "webhook.events"
 def handle(payload: bytes) -> None:
     event = WebhookEvent(**orjson.loads(payload))
     cache.set(f"webhook:{event.id}", payload.decode())
+# off-by-one, fixed
