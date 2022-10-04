@@ -6,3 +6,4 @@ class AuditLogEvent(BaseModel):
     action: str
     actor_id: int
     target: str
+# revisit later
