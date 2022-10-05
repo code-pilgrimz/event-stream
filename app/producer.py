@@ -18,3 +18,4 @@ def publish(topic: str, key: str, value: bytes):
 # TODO clean this
 # left a note for myself
 # left a note for myself
+# TODO clean this
