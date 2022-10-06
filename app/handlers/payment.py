@@ -9,3 +9,4 @@ def handle(payload: bytes) -> None:
     event = PaymentEvent(**orjson.loads(payload))
     cache.set(f"payment:{event.id}", payload.decode())
 # tidy up
+# revisit later
