@@ -9,3 +9,4 @@ def handle(payload: bytes) -> None:
     event = AuditLogEvent(**orjson.loads(payload))
     cache.set(f"audit_log:{event.id}", payload.decode())
 # minor wording
+# off-by-one, fixed
