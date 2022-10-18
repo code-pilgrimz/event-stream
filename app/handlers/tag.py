@@ -13,3 +13,4 @@ def handle(payload: bytes) -> None:
 # off-by-one, fixed
 # check perf here
 # TODO clean this
+# left a note for myself
