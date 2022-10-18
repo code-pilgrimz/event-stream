@@ -84,3 +84,4 @@
 - TODO clean this
 - revisit later
 - tidy up
+- minor wording
