@@ -8,3 +8,4 @@ TOPIC = "api_key.events"
 def handle(payload: bytes) -> None:
     event = ApiKeyEvent(**orjson.loads(payload))
     cache.set(f"api_key:{event.id}", payload.decode())
+# TODO clean this
